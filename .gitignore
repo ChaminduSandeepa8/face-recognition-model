@@ -1,0 +1,14 @@
+# Dataset and Models
+data_set/
+*.pickle
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environments
+face_env/
+venv/
+.env
+
